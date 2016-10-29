@@ -1,4 +1,5 @@
-.# Impress.JS-Generator
+
+# Impress.JS-Generator
 
 
 #Uso de la applicación 
